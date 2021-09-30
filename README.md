@@ -1,2 +1,2 @@
 # WifiUserScan
-Detect how user use your wifi (incomplete)
+Detect how many clients/users use your wifi (incomplete)
